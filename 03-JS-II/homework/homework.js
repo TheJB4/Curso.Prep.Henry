@@ -5,6 +5,17 @@ function obtenerMayor(x, y) {
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
+  x = 10;
+  y = 5;
+
+  if(x > y){
+    return x
+  }
+  else{
+    return y
+  }
+
+
 }
 
 function saludo(idioma) {
